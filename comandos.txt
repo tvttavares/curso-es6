@@ -16,6 +16,6 @@ yarn add webpack-dev-server -D
 
 yarn add @babel/plugin-transform-async-to-generator -D
 
-yarn add @babel/pollyfill -D
+yarn add @babel/polyfill  -D
 
 yarn add axios
